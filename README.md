@@ -6,7 +6,7 @@ The Group 22 is composed of:
 3. Ashish Upadhaya (Matricola 2047672)
 
    Every member will have pushed his contribution in separate notebooks in this repository. All the homework answers remains merged
-   into one final notebook by the name of main_solution.ipynb <https://github.com/Himel1996/ADM_HW2_Group22/blob/main/main.ipynb> containing all
+   into one final notebook by the name of main.ipynb <https://github.com/Himel1996/ADM_HW2_Group22/blob/main/main.ipynb> containing all
    the answers of RQ 1,2,3,4,5,6,7,8, CLQ, AWS and Algorithmic Question's answer.
    The individual files for the scripts of Command Line and AWS are also added.
    The individual files are the exercises done by each member of the group in order to track everyone's footprint in contribution.
