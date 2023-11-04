@@ -10,3 +10,5 @@ The Group 22 is composed of:
    the answers of RQ 1,2,3,4,5,6,7,8, CLQ, AWS and Algorithmic Question's answer.
    The individual files for the scripts of Command Line and AWS are also added.
    The individual files are the exercises done by each member of the group in order to track everyone's footprint in contribution.
+
+   Note: The files that were considered in this Homework are: lighter_authors.json, lighter_books.json, series.json, list.json
